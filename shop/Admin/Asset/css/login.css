@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* 
+font-family: 'Kalam', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+ */
+
+ :root{
+   --olive:#619B58;
+   --white: #fff;
+   --black: #000;
+   --yellow: #E9DA5D;
+   --gary:#D9D9D9;
+   --light-gray:#f6f3f3;
+ }
+ h1,h2,h3,h4,h5,h6{
+   font-family: 'Poppins', sans-serif;
+ }
+
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ html{
+    scroll-behavior: smooth;
+ }
+ .container{
+    padding: 0 auto;
+    width: 100%;
+ }
+
+ ul{
+    list-style: none;
+ }
+ a{
+    text-decoration: none;
+ }
+ .mb-20{
+   margin-bottom: 20px
+ }
+
+ .mb-15{
+   margin-bottom: 15px
+ }
+
+ .mb-30{
+   margin-bottom: 30px
+ }
+
+ .mb-10{
+   margin-bottom: 10px
+ }
+
+ img{
+   width: 100%;
+ }
